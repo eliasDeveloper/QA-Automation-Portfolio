@@ -4,4 +4,4 @@
 
 - **Skills/Tools:** JavaScript, Appium.
 
-- **Link to Course:** [Mobile Automation with JS](#)
+- **[Link to Course](https://testautomationu.applitools.com/appium-javascript-tutorial/)https://testautomationu.applitools.com/appium-javascript-tutorial/:** [Mobile Automation with JS](#)
