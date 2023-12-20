@@ -45,4 +45,5 @@
 - **Tools:** Git, GitHub, Azure DevOps, Jira, TestRail
 - **API Testing:** Postman
 - **Performance Testing:** JMeter
+- **Database Testing:** SQL, MSSQL, PostgreSQL
 
