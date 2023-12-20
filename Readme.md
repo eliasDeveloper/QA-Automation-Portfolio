@@ -1,3 +1,7 @@
+# QA Automation Portfolio
+
+## Courses and Certifications
+
 ### Mobile Automation with Appium and JS
 
 - **Description:** Completed the Test Automation University course on mobile automation using JavaScript. Learned to automate mobile applications using Appium.
