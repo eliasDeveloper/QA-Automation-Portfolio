@@ -37,3 +37,12 @@
 - **Description:** Completed the Test Automation University course on Setting Foundation for Successful Test Automation. Learned how to set and think when building any automation within a team based on the needs and also on the best practices.
 - **Skills/Tools:** Leadership, Communication, Automation Frameworks, Software Testing Principles.
 - **Link to Course:** [Setting the Foundation for a Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
+
+### Additional Skills and Technologies
+
+- **Programming Languages:** Java, JavaScript, C#
+- **Testing Frameworks:** Selenium WebDriver, Cypress, WebDriverIO, Playwright.
+- **Tools:** Git, GitHub, Azure DevOps, Jira, TestRail
+- **API Testing:** Postman
+- **Performance Testing:** JMeter
+
