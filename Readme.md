@@ -47,3 +47,16 @@
 - **Performance Testing:** JMeter
 - **Database Testing:** SQL, MSSQL, PostgreSQL
 
+### Summary
+
+As a dedicated QA Automation professional, I bring a passion for ensuring software quality through robust testing strategies and automation solutions. 
+With expertise in Various Automation frameworks, both Web and Mobile, JMeter, and continuous integration, I am committed to delivering reliable and efficient testing processes.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elias-chamoun-a97b92177/) for further discussions or collaborations.
+Email: eliasshamoun96.es@gmail.com
+Twitter: Twitter Link (https://twitter.com/EliasDeveloper)
+---
+
+Thank you for visiting my QA Automation Portfolio!
+
+
